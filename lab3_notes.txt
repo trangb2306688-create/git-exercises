@@ -1,0 +1,5 @@
+LAB 3 - Git and GitHub
+Student: Le Thuy Trang
+Student ID: B2306688
+
+This file was created in Visual Studio Code.
